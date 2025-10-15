@@ -72,15 +72,6 @@ I deliberately limit model complexity to prevent memorization:
 - Regularization provides better bias-variance tradeoff
 - Maintains statistical validity of probability estimates
 
-## � Sample Predictions (Realistic Variation!)
-
-| Customer Profile | Risk Score | Risk Level |
-|-----------------|------------|------------|
-| Young, new customer, month-to-month, high charges | 100% | 🔴 HIGH |
-| Middle-aged, moderate tenure, one-year contract | 79.7% | 🔴 HIGH |
-| Older, loyal customer, two-year, low charges | 79.4% | 🔴 HIGH |
-| Senior, no internet, month-to-month, short tenure | 97.4% | 🔴 HIGH |
-
 > **Model Feature**: Shows **varied probabilities** based on customer features for actionable insights!
 
 ## �🚀 Quick Start
