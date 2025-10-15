@@ -1,5 +1,7 @@
 # 🎯 RetentionHub Pro - Realistic Churn Prediction with ML
 
+> **Try it yourself with the interactive Streamlit app! Fair, unbiased ML predictions with class weighting - test with your own data.**
+
 ## 🌟 What Makes This Project Stand Out?
 
 - **🎯 Realistic Predictions**: Regularized models trained on original data with class weighting
