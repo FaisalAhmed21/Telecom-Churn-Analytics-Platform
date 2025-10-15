@@ -27,8 +27,6 @@
 | 7th | AdaBoost | ~96% | ~97% | ~98% | lr=0.5, 50 trees | Decent |
 | 8th | XGBoost | ~98% | ~98% | ~99% | reg_alpha=0.5, reg_lambda=1.0 | Strong |
 
-> **Key Improvement**: Models give **varied predictions** (79%-100%) instead of always 100%!
-
 ## ⚖️ Imbalance Handling Strategy
 
 ### Dataset Reality:
