@@ -1,7 +1,5 @@
 # 🎯 RetentionHub Pro - Realistic Churn Prediction with ML
 
-> **Production-Ready Machine Learning Solution**
-
 ## 🌟 What Makes This Project Stand Out?
 
 - **🎯 Realistic Predictions**: Regularized models trained on original data with class weighting
