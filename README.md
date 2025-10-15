@@ -5,7 +5,7 @@
 ## 🌟 What Makes This Project Stand Out?
 
 - **🎯 Realistic Predictions**: Regularized models trained on original data with class weighting
-- **📊 Varied Risk Scores**: Predicts diverse probabilities (79%-100%) based on customer profiles - not always the same!
+- **📊 Varied Risk Scores**: Predicts diverse probabilities based on customer profiles
 - **🧠 Advanced Engineering**: 13 sophisticated features from 9 basic inputs with intelligent ratios and groupings
 - **⚖️ Smart Imbalance Handling**: Uses class weights instead of oversampling to prevent overfitting
 - **🏭 Production-Ready**: Complete Streamlit app with realistic, actionable predictions
