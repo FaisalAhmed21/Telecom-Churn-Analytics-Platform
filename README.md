@@ -179,28 +179,6 @@ RandomForestClassifier(
 - **Result**: Calibrated probabilities (79%-100%) instead of overconfident predictions
 - **Business Value**: Enables targeted interventions based on risk levels
 
-## 🎯 Prediction Examples
-
-The model gives **realistic, varied predictions**:
-
-```python
-# High-risk profile
-Young customer (25), month-to-month, high charges
-→ 100% churn probability (immediate action needed)
-
-# Medium-high risk
-Middle-aged (42), one-year contract, moderate tenure
-→ 79.7% churn probability (proactive engagement)
-
-# Medium-high risk with loyalty factors
-Older (55), two-year contract, long tenure, tech support
-→ 79.4% churn probability (monitor closely)
-
-# Very high risk
-Senior (70), month-to-month, short tenure
-→ 97.4% churn probability (urgent intervention)
-```
-
 ## 🚀 Future Enhancements
 
 - [ ] Wider prediction range (collect more no-churn customer data)
